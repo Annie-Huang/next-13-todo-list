@@ -3,6 +3,8 @@ Learn Next.js 13 With This One Project (https://www.youtube.com/watch?v=NgayZAuT
 https://github.com/WebDevSimplified/next-13-todo-list
 https://github.com/Annie-Huang/next-13-todo-list
 
+https://www.prisma.io/docs/guides/other/troubleshooting-orm/help-articles/nextjs-prisma-client-dev-practices
+
 -----------------------------------------------------------------------
 
 PS C:\react> npx create-next-app@latest next-13-todo-list
