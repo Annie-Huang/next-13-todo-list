@@ -21,3 +21,7 @@ Creating a new Next.js app in C:\react\next-13-todo-list.
 Using npm.
 
 Initializing project with template: app-tw
+
+-----------
+
+PS C:\react\next-13-todo-list> npm i prisma --save-dev
