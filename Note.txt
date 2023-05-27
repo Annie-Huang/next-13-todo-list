@@ -25,3 +25,4 @@ Initializing project with template: app-tw
 -----------
 
 PS C:\react\next-13-todo-list> npm i prisma --save-dev
+PS C:\react\next-13-todo-list> npx prisma init --datasource-provider sqlite
