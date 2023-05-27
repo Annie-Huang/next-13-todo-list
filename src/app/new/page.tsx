@@ -2,6 +2,12 @@ import { prisma } from '@/db';
 import { redirect } from 'next/navigation';
 import Link from 'next/link';
 
+async function createTodo(data: FormData) {
+  'use server';
+
+  console.log('Hi');
+}
+
 export default function Page() {
   return (
     <>
